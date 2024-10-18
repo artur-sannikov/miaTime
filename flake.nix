@@ -1,7 +1,7 @@
 {
   description = "Nix Flake for miaTime R package";
   inputs = {
-    nixpkgs.url = "github:NixOS/nixpkgs/nixpkgs-unstable";
+    nixpkgs.url = "github:rstats-on-nix/nixpkgs/51f769d97829f3bc233d21094d8acbbfce0f6d0f";
     flake-utils.url = "github:numtide/flake-utils";
   };
   outputs =
